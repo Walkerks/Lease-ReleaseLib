@@ -1,4 +1,4 @@
-#include "leaseRelease.c"
+#include "leaseRelease.h"
 #include <stdio.h>
 
 int main(){
